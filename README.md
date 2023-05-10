@@ -1,2 +1,3 @@
-# laravel-livewire-proxy-settings-component
-Proxy server laravel livewire component
+# Livewire proxy settings component
+
+Work in progress
